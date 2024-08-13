@@ -35,6 +35,7 @@ function ToDoList() {
         <div>
           <form>
             <input {...register('email')} placeholder="Email" />
+            <input {...register('email')} placeholder="Email" />
             <input {...register('firstName')} placeholder="First Name" />
             <input {...register('lastName')} placeholder="Last Name" />
             <input {...register('username')} placeholder="Username" />
